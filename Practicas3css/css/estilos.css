@@ -1,0 +1,14 @@
+
+
+body{
+    background-image: url(../img/patron.png);
+    background-size: 100px;
+    background-repeat: repeat;
+    background-position: top right;
+    background-attachment: fixed;
+}
+
+p{
+    margin-right: 500px;
+    font-size: 20px;
+}
